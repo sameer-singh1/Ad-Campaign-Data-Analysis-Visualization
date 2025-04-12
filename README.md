@@ -54,13 +54,3 @@ This repository contains an in-depth analysis of various ad campaigns targeting 
 ## 📌 Conclusion
 
 By dropping Campaigns **3** and **10**, the overall ad efficiency can be improved, reducing cost while maintaining or enhancing performance across other well-performing campaigns.
-
----
-
-## 📁 Files Included
-- `Ad Campaign Analysis.pdf`: Contains original analysis and charts.
-
----
-
-Feel free to contribute or suggest further metrics to evaluate for deeper insights!
-
